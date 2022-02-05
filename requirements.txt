@@ -1,0 +1,9 @@
+To run this project you must have selenium installed in your system . This autoamtion is for the basic of recursion part of the coding ninjas under DAA of Chitkara University. 
+
+requirements :
+
+selenium library
+python
+chromedriver V97
+chrome browser v97
+time library
